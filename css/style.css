@@ -1,0 +1,25 @@
+body{
+    margin-top: 100px;
+}
+
+#transectionBox{
+    display: none;
+}
+.box {
+    text-transform: capitalize;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+#deposit{
+    background: rgb(30, 122, 197);
+}
+#withdraw{
+    background: rgb(243, 57, 24);
+}
+#balance{
+    background: green;
+}
+#addBalance{
+    outline: none !important;
+}
